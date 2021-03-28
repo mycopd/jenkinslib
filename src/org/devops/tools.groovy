@@ -1,6 +1,6 @@
-paackage org.devops
+package org.devops
 
-def printMes(){
-    println("hello")
+def printMes(content){
+    println(content)
 
 }
